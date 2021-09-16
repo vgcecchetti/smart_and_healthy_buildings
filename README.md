@@ -1,6 +1,6 @@
 ### vgcecchetti ###
 
-# List #
-Cookie Monster
-Rock
-Normal Human
+### List ###
+* Cookie Monster
+* Rock
+* Normal Human
